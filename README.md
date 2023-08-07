@@ -8,3 +8,5 @@ Repo to contain the analysis of PLFS July 2021 - June2022 for WB - Artha Global 
 + `scripts-extraction` The plfs data is across several `.txt` files, layout for which is provided in a separate excel file. This folder contains scripts to extract the plfs data from `.txt` file. 
 
 + `R` This folder contains definitions of customs functions. These might be a mix of various kinds of functions such as helpers, data-viz, calculations, exports, etc.
+
++ `extractded-data` folder has the plfs data files in rds format, ready to read and analyse.
